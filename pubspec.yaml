@@ -1,7 +1,8 @@
 name: sensation
-description: "A new Flutter package project."
+description: "reliable and lightweight gesture detector"
 version: 0.0.1
-homepage:
+auther: Ta-Yi Cheng<admin@tranquility.tech>
+homepage: https://www.tranquility.tech/
 
 environment:
   sdk: '>=3.2.6 <4.0.0'
