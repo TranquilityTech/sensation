@@ -1,12 +1,12 @@
 name: sensation
 description: "Sensation is a Flutter plugin that enables a reliable and lightweight gesture detector. This plugin allows developers to integrate complex gesture interactions in their applications with ease. It simplifies the process of gesture detection and provides a more intuitive user experience by recognizing various touch gestures such as swipes, pinches, and long presses. Moreover, its lightweight nature ensures that the performance of the application is not compromised."
-version: 0.0.1
+version: 0.0.2
 auther: Ta-Yi Cheng<admin@tranquility.tech>
 homepage: https://www.tranquility.tech/
 
 environment:
-  sdk: '>=3.2.6 <4.0.0'
-  flutter: ">=3.7.0"
+  sdk: '>=2.17.0 <4.0.0'
+  flutter: ">=1.20.0"
 
 dependencies:
   flutter:
